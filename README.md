@@ -1,8 +1,8 @@
 # PyDA
-
-
+Python for Data Analysis. 
 
 ## date
+
 | Date | Title |
 |------|-------|
 | 2020-01-10 am | lab-numpy |
@@ -12,5 +12,6 @@
 | 2020-01-15 am | lab-sklearn |
 | 2020-01-16 am | lab-dataprep |
 | 2020-01-17 am | lab-beautiful |
+| 2020-01-17 am | final exam |
 
 
