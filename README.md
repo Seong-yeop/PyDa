@@ -1,9 +1,8 @@
 # PyDA
 
-## Data Scientist 
 
 
-## date|
+## date
 | Date | Title |
 |------|-------|
 | 2020-01-10 am | lab-numpy |
