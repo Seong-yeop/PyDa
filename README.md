@@ -1,8 +1,8 @@
 # PyDA
-Python for Data Analysis. 
+Python for Data Analysis. <br>
+<hr>
 
 ## date
-
 | Date | Title |
 |------|-------|
 | 2020-01-10 am | lab-numpy |
@@ -14,4 +14,4 @@ Python for Data Analysis.
 | 2020-01-17 am | lab-beautiful |
 | 2020-01-17 am | final exam |
 
-
+<hr>
