@@ -1,6 +1,5 @@
 # PyDA
 Python for Data Analysis. <br>
-<hr>
 
 ## date
 | Date | Title |
